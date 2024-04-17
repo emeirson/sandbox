@@ -1,0 +1,52 @@
+[
+  {
+    "first_name": "Jane",
+    "last_name": "Doe",
+    "age": 25,
+    "is_student": false,
+    "address": {
+      "province": "California",
+      "municipality": "Los Angeles"
+    }
+  },
+  {
+    "first_name": "Michael",
+    "last_name": "Smith",
+    "age": 30,
+    "is_student": true,
+    "address": {
+      "province": "Texas",
+      "municipality": "Houston"
+    }
+  },
+  {
+    "first_name": "Emily",
+    "last_name": "Johnson",
+    "age": 28,
+    "is_student": false,
+    "address": {
+      "province": "Florida",
+      "municipality": "Miami"
+    }
+  },
+  {
+    "first_name": "William",
+    "last_name": "Brown",
+    "age": 23,
+    "is_student": true,
+    "address": {
+      "province": "New York",
+      "municipality": "Brooklyn"
+    }
+  },
+  {
+    "first_name": "Sophia",
+    "last_name": "Williams",
+    "age": 27,
+    "is_student": false,
+    "address": {
+      "province": "Illinois",
+      "municipality": "Chicago"
+    }
+  }
+]
