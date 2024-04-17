@@ -1,0 +1,10 @@
+{
+    "first_name": "emeirson",
+    "last_name": "calub",
+    "age": 21,
+    "is_student": true,
+    "address": {
+        "province": "Pangasinan",
+        "municipality": "Bayambang"
+    }
+}
